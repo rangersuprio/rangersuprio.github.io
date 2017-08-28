@@ -1,8 +1,4 @@
---------------
-layout: post
-title: "Thoughts and thinkings about artificial intelligence"
-date: 2017-08-28
---------------
+
 Technology is advancing day by day.Today we can do almost anything in our fingertips which was not possible few decades ago.
 Artificial intelligence is something like that.From google now to tesla's self driving car it is upgrading day by day.Today we have 
 smart voice assitants like siri and  google now etc.Ai can recognize faces on social medias.It can also chat with us like humans do.
