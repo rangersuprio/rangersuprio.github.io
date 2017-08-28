@@ -1,4 +1,3 @@
-
 --------------
 layout: post
 title: "Thoughts and thinkings about artificial intelligence"
