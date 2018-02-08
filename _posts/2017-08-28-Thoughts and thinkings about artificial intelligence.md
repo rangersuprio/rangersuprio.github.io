@@ -5,8 +5,8 @@ smart voice assitants like siri and  google now etc.Ai can recognize faces on so
 
 Artificial intelligence are making our life easier but we ain't done yet.It has a to be more developed.Nowadays the ai we are seeing are week ai's
 they need to be more developed to a stage which is called general ai's and for this reason a vast majority of students and researchers are working on
-to develop poweful ai's luckily we have now many powerfull machine learning lib like tensorflow,theano,torch and so on.
-
+to develop powefull ai'
+The term ai and machine learning looks like so fancy and complex but at the core its all about math.
 
 Now our challange is to create more powerfull ai's.Which can be just like your friends or colleagues,AI Will not replace our work it will just help us to do a
 vast task easier.
